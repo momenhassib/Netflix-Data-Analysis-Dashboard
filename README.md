@@ -1,7 +1,5 @@
 # Netflix Data Analysis Dashboard
-# Netflix Data Analysis Dashboard
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mo'men_Hassib-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/momen-hassib)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mo'men_Hassib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/momenhassib)
 
 ## Overview
 This project analyzes the Netflix dataset using MySQL and Power BI to uncover content trends and business insights through interactive dashboards.
