@@ -3,8 +3,6 @@
 
 ## Overview
 This project analyzes the Netflix dataset using MySQL and Power BI to uncover content trends and business insights through interactive dashboards.
-## Overview
-This project analyzes the Netflix dataset using MySQL and Power BI to uncover content trends and business insights through interactive dashboards.
 
 ## Tools & Technologies
 - Power BI
