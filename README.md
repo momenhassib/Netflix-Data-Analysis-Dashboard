@@ -20,11 +20,11 @@ This project analyzes the Netflix dataset using MySQL and Power BI to uncover co
 
 ## Dashboard Preview
 
-### Dashboard 1
+### Overview Dashboard
 
 ![Dashboard 1](Dashboard1.png)
 
-### Dashboard 2
+### Single Title Analysis Dashboard
 
 ![Dashboard 2](Dashboard2.png)
 
